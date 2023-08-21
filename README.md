@@ -31,7 +31,7 @@ Steps:
 ## **Results and Findings**
 
 In this project, valuable findings and results have been obtained:
-1. **EDA Insights:** The analysis of monthly rainfall distribution highlighted a tendency for heavier rainfall with some months experiencing significant outliers. The climate in Kerala showed a yearly downward trend, reflecting India's two distinct seasons.
+1. **EDA Insights:** The analysis of the monthly rainfall distribution revealed notable characteristics. The box plot illustrated that the distribution tends to have a longer tail towards higher values, indicating instances of heavy rainfall. Additionally, the majority of months experienced low rainfall, as evident from the median value being lower than the mean. Noteworthy are the months with high rainfall, indicated by outliers significantly above the norm. This analysis also uncovered a downward trend in Kerala's weather conditions annually, affirming the two distinct seasons that characterize India's climate.
 2. **Model Performance:** Notably, the K-Nearest Neighbors (KNN) model and Ensemble Learning outperformed others, achieving an impressive 91% accuracy. These models exhibit strong potential for effective flood prediction, emphasizing the importance of accurate weather forecasts in managing flood events.
 
 These findings shed light on the dataset's characteristics, the relationship between rainfall and flooding, and the effectiveness of predictive models. The results underscore the significance of accurate weather forecasts in anticipating and managing flood occurrences in Kerala.
