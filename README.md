@@ -31,8 +31,8 @@ Steps:
 ## **Results and Findings**
 
 In this project, valuable findings and results have been obtained:
-**1. EDA Insights:** The analysis of monthly rainfall distribution highlighted a tendency for heavier rainfall with some months experiencing significant outliers. The climate in Kerala showed a yearly downward trend, reflecting India's two distinct seasons.
-**2. Model Performance:** Notably, the K-Nearest Neighbors (KNN) model and Ensemble Learning outperformed others, achieving an impressive 91% accuracy. These models exhibit strong potential for effective flood prediction, emphasizing the importance of accurate weather forecasts in managing flood events.
+1. **EDA Insights:** The analysis of monthly rainfall distribution highlighted a tendency for heavier rainfall with some months experiencing significant outliers. The climate in Kerala showed a yearly downward trend, reflecting India's two distinct seasons.
+2. **Model Performance:** Notably, the K-Nearest Neighbors (KNN) model and Ensemble Learning outperformed others, achieving an impressive 91% accuracy. These models exhibit strong potential for effective flood prediction, emphasizing the importance of accurate weather forecasts in managing flood events.
 
 These findings shed light on the dataset's characteristics, the relationship between rainfall and flooding, and the effectiveness of predictive models. The results underscore the significance of accurate weather forecasts in anticipating and managing flood occurrences in Kerala.
 
