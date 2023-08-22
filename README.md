@@ -25,7 +25,7 @@ Steps:
 9. Conclusion
 
 ## **Installation**
-1. Clone the repository: `git clone https://github.com/Lexuz17/Sentiment_Education_Analysis_Clustering.git`
+1. Clone the repository: `https://github.com/Lexuz17/Kerala_Flood_Classification_Prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## **Results and Findings**
