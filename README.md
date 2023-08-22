@@ -13,7 +13,7 @@ Steps:
 6. Data Pre-Processing
    - Splitting data
    - MinMax Scaler
-7. Moddeling
+7. Modeling
     - K-Nearest Neighbors (KNN)
     - Logistic Regression (LR)
     - Support Vector Classification (SVC)
