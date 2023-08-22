@@ -9,11 +9,11 @@ Steps:
 2. Installing needed Libraries
 3. Data Collection
 4. Exploratory Data Analysis (EDA)
-6. Data Visualization
-7. Data Pre-Processing
+5. Data Visualization
+6. Data Pre-Processing
    - Splitting data
    - MinMax Scaler
-8. Moddeling
+7. Moddeling
     - K-Nearest Neighbors (KNN)
     - Logistic Regression (LR)
     - Support Vector Classification (SVC)
@@ -21,8 +21,8 @@ Steps:
     - Random Forest (RF)
     - Naive Bayes (NB)
     - Ensemble Learning
-9. Measure accuracy of models
-10. Conclusion
+8. Measure accuracy of models
+9. Conclusion
 
 ## **Installation**
 1. Clone the repository: `git clone https://github.com/Lexuz17/Sentiment_Education_Analysis_Clustering.git`
